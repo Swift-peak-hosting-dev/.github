@@ -14,6 +14,7 @@ All you need to do is head over to our [Discord community](https://discord.gg/jz
 Now remember, we aren't automated robots, so reviewing these issues and pull requests will take some time. Please be patient with us. We look forward to seeing all of your issues and pull requests. Best of luck to all of you.
 
 ## Our scripts
+- [Qb radio modified](https://github.com/Swift-peak-hosting-dev/qb-radio)
 - [Bryan Snaily CAD Integration for QB Core or ESX](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Bryan-Snaily-CAD-Integration-main)
 - [Swift Peak file Selector](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Swift%20Peak%20file%20Selector)
 - [QB-Disable-Radio](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/QB-Disable-Radio-main)
