@@ -17,10 +17,10 @@ All you need to do is head over to our **#join-the-dev-team** inside our [Discor
 Now remember, we aren't automated robots, so reviewing these issues and pull requests will take some time. Please be patient with us. We look forward to seeing all of your issues and pull requests. Best of luck to all of you.
 
 ## Our scripts
-- [qb-radio (BurnoutProjects version)](https://github.com/Swift-peak-hosting-dev/qb-radio)
-- [Bryan Snaily CAD Integration for QB Core or ESX](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Bryan-Snaily-CAD-Integration-main)
-- [Swift Peak file Selector](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Swift%20Peak%20file%20Selector)
-- [QB-Disable-Radio](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/QB-Disable-Radio-main)
-- [uj-AImedic](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/uj-aimedic-main)
-- [uj-qbfood](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/uj-qbfood-main)
-- [uj-radialmenu](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/uj-radialmenu-main)
+- [[BurnoutProjects] qb-radio](https://github.com/Swift-peak-hosting-dev/qb-radio)
+- [[Bryan] Bryan Snaily CAD Integration for QB Core or ESX](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Bryan-Snaily-CAD-Integration-main)
+- [[Bryan] Swift Peak file Selector](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Swift%20Peak%20file%20Selector)
+- [[unscalable] QB-Disable-Radio](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/QB-Disable-Radio-main)
+- [[unscalable] uj-AImedic](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/uj-aimedic-main)
+- [[unscalable] uj-qbfood](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/uj-qbfood-main)
+- [[unscalable] uj-radialmenu](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/uj-radialmenu-main)
