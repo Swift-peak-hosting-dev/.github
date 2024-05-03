@@ -17,7 +17,8 @@ Now remember, we aren't automated robots, so reviewing these issues and pull req
 
 ## Our scripts
 - [BurnoutProjects qb-radio](https://github.com/Swift-peak-hosting-dev/qb-radio)
-- [Bryan Snaily CAD Integration for QB Core or ESX]([https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Bryan-Snaily-CAD-Integration-main](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Bryan-Snaily-CAD-Integration))
+[Bryan Snaily CAD Integration for QB Core or ESX](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Bryan-Snaily-CAD-Integration-main)
+
 - [Swift Peak file Selector](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Swift%20Peak%20file%20Selector)
 - [QB-Disable-Radio](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/QB-Disable-Radio-main)
 - [uj-AImedic](https://github.com/Swift-peak-hosting-dev/unscalable-YT-SCRIPTS/tree/main/uj-aimedic-main)
