@@ -8,18 +8,17 @@
 
 <br>
 
-This is where the wonderful open source dev team of passionate developers and designers with a primary focus on providing quality open source resources join forces, updated the [Swift Peak Hosting /dev](https://discord.com/24kRGtkeHq) community. They come together as one and focus on open source resources for all FiveM communities to enjoy and use!
+This is where the wonderful open source dev team of passionate developers and designers, with a primary focus on providing quality open source resources, join forces to update the [Swift Peak Hosting /dev](https://discord.com/24kRGtkeHq) community. They come together as one and focus on open source resources for all FiveM communities to enjoy and use!
 
 ### Now it's SUPER easy to contribute!
-All you need to do is head over to our **[#join-the-dev-team](https://discord.com/channels/1188124299144466492/1213184008943566958)** inside our [Discord community](https://discord.com/24kRGtkeHq) and do `/open` with the subject `join team`. Just read through the contribution rules **thoroughly**. Elsewhere, open an issue with a pull request to our scripts. Please create **well-written** and **detailed** issues/pull requests; then just hit the big green submit button and **BOOM**! You are done. It's never been so easy!
+All you need to do is head over to our **[#join-the-dev-team](https://discord.com/channels/1188124299144466492/1213184008943566958)** inside our [Discord community](https://discord.com/24kRGtkeHq) and type `/open` with the subject `join team`. Just read through the contribution rules **thoroughly**. Alternatively, open an issue with a pull request to our scripts. Please create **well-written** and **detailed** issues/pull requests; then just hit the big green submit button and **BOOM**! You are done. It's never been so easy!
 
 Now remember, we aren't automated robots, so reviewing these issues and pull requests will take some time. Please be patient with us. We look forward to seeing all of your issues and pull requests. Best of luck to all of you.
 
 ## Our scripts
 - [BurnoutProjects qb-radio](https://github.com/Swift-peak-hosting-dev/qb-radio)
 
-- [Bryan Snaily CAD Integration for QB Core or ESX]([https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Bryan-Snaily-CAD-Integration-main](https://store.swiftpeakhosting.co.uk/p/bryan-snaily-cad-integration))
-
+- [Bryan Snaily CAD Integration for QB Core or ESX](https://store.swiftpeakhosting.co.uk/p/bryan-snaily-cad-integration)
 
 - [Swift Peak file Selector](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Swift%20Peak%20file%20Selector)
 
