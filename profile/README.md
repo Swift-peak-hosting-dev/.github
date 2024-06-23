@@ -18,7 +18,7 @@ Now remember, we aren't automated robots, so reviewing these issues and pull req
 ## Our scripts
 - [BurnoutProjects qb-radio](https://github.com/Swift-peak-hosting-dev/qb-radio)
 
-- [Bryan Snaily CAD Integration for QB Core or ESX](https://store.swiftpeakhosting.co.uk/p/bryan-snaily-cad-integration)
+- [Bryan Snaily CAD Integration for QB Core or ESX](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Bryan-Snaily-CAD-Integration/bryan_snaily)
 
 - [Swift Peak file Selector](https://github.com/Swift-peak-hosting-dev/Swift-Development-Integrations-v3/tree/main/Swift%20Peak%20file%20Selector)
 
